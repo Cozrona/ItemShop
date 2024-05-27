@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+CID_625_Athena_Commando_F_PinkTrooper, 1200
+Pickaxe_ID_363_LollipopTricksterFemale, 800
+EID_TakeTheL, 750
 na
 na
 na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+Wrap_065_AssassinSuit01, 200
+BID_468_Cyclone, 500
+CID_397_Athena_Commando_F_TreasureHunterFashion, 800
+EID_GoodVibes, 300
+Umbrella_AssassinSuit, 250
+CID_478_Athena_Commando_F_WorldCup, 1200
